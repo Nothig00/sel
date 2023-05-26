@@ -14,7 +14,7 @@ def task(i):
 
     sema.acquire()
 
-    print "start %s" % (i,)
+    print("start %s" % (i,))
 
     time.sleep(2)
 
