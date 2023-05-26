@@ -26,4 +26,4 @@ for i in range(10):
 
     threads.append(thread)
 
-    thread.start(
+    thread.start()
